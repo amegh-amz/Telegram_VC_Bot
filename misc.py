@@ -8,7 +8,7 @@ HELP_TEXT = """__**I Can Play Music In The Voice Chat**__
 **/leavevc** __To Leave A Voice Chat.__
 **/telegram** __To Play From Telegram Audio.__
 
-__**NOTE: Do Not Assign These Commands To Bot Via BotFather.**__"""
+__**NOTE: Do Not Assign These Commands To Bot Via BotFather **__"""
 
 START_TEXT = "__**Hi I'm Telegram Voice Chat Bot. Join @PatheticProgrammers For Support.**__"
 
