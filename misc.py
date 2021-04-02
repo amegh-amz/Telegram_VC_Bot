@@ -12,5 +12,5 @@ __**NOTE: Do Not Assign These Commands To Bot Via BotFather **__"""
 
 START_TEXT = "__**Hi I'm Telegram Voice Chat Bot. Contact @amzmtaccount For Support.**__"
 
-REPO_TEXT = "[Github](https://github.com/amegh-amz/Telegram_VC_Bot.git)" \
+REPO_TEXT = "[DEV](t.me/amzmtaccount)" \
             + " | [Group](t.me/mt_music_24)"
